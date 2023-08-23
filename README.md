@@ -1,5 +1,5 @@
 <h1 align="left">Hi , I'm Harshini </h1>
-<p align="centreI'm an undergrad at the National Institute of Technology, Kurukshetra, majoring in Information Technology.I code some times. I've navigated my way through languages like Python, JavaScript, and Java, with a keen interest in web development, databses and AI.</p><p>And when I'm not doing that, you'll find me reading about almost anything and indulging in unabashed cat geekery(if that wasn't already apparent).
+<p align="centre>I'm an undergrad at the National Institute of Technology, Kurukshetra, majoring in Information Technology.I code some times. I've navigated my way through languages like Python, JavaScript, and Java, with a keen interest in web development, databses and AI.</p><p>And when I'm not doing that, you'll find me reading about almost anything and indulging in unabashed cat geekery(if that wasn't already apparent).
 </p>
 <img align="right" alt="Coding" width="400" src="https://www.kevinwanke.com/wp-content/uploads/2021/06/marcel-friedrich-XC_28Kk25F0-unsplash.jpg">
 
