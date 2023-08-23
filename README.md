@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Harshini K</h1>
-<h3 align="center">Coding and mostly Chaos – Embracing the Art of Simultaneous Multitasking</h3>
+<h1 align="left">Hi , I'm Harshini </h1>
+<p align="centre">I'm an undergraduate at National Institute of Technology, Kurukshetra, pursuing my major in Information Technology. I code some times. I've navigated my way through languages like Python, JavaScript, and Java, with a keen interest in web development, databses and AI.
+And when I'm not doing that, you'll find me reading about almost anything and indulging in unabashed cat geekery(if that wasn't already apparent).
+</p>
 <img align="right" alt="Coding" width="400" src="https://www.kevinwanke.com/wp-content/uploads/2021/06/marcel-friedrich-XC_28Kk25F0-unsplash.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshinik7&label=Profile%20views&color=0e75b6&style=flat" alt="harshinik7" /> </p>
 
-- 🔭 I’m currently working on **AI therapist**
 
-- 🌱 I’m currently learning **React Native, Objective C, flutter**
-
-- 💬 Ask me about **Python,CSS, MySql**
-
-- 📫 How to reach me **harshinikondepudi@gmail.com**
-
-- ⚡ Fun fact **i dont think im funni**
+- I’m currently working on **AI therapist**
+- I’m currently learning **React Native, Objective C, flutter**
+- Ask me about **Python,CSS, MySql**
+- How to reach me **harshinikondepudi@gmail.com**
+- Fun fact **i dont think im funni**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
