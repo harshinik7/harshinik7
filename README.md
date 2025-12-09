@@ -6,7 +6,6 @@
 - I’m currently learning **React Native, Objective C, flutter**
 - Ask me about **Python,CSS, MySql**
 - How to reach me **harshinikondepudi@gmail.com**
-- Fun fact **i dont think im funni**
 
 ![420e39bd34d74ffae5c6af92a701d5cb](https://github.com/harshinik7/harshinik7/assets/93606469/3e9a83b0-82ed-4da6-8dfc-dc280b80bfa9)
 
